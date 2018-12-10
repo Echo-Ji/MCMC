@@ -1,3 +1,6 @@
+/LiZimeng/*
+/tf-smc/theta/*
 *.out
 *.ed
 *.csv
+*.pred

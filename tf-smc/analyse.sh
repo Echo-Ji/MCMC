@@ -1,4 +1,4 @@
 #!/bin/bash
 source activate edward_py2
-python analyse_bys_1h.py
+python analyse_bys.py
 source deactivate
